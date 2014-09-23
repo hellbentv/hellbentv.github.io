@@ -3,6 +3,199 @@
   <channel>
     <title>akb.net</title>
     <link>http://www.akb.net</link>
-    <pubDate>2014-09-22 21:17:15 -0600</pubDate>
+    <pubDate>2014-09-22 21:35:15 -0600</pubDate>
+    <item>
+      <title>Product Technology Notes</title>
+      <link>http://www.akb.net/product-technology-notes</link>
+      <pubDate>2014-09-30</pubDate>
+      <description>&lt;h2 id="toc_0"&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;LCU14, its a wrap.  Now that I&amp;#39;m back, the week seems to be a complete blur. The
+week started on Sunday with the management team looking at a few challenges
+facing Linaro.  Topics discussed include growth, scaling, silos, member
+engagement and our roadmap process. Though there will likely be only a few
+quick changes, the feedback from these sessions will be a topic of ongoing
+discussions and changes for the Linaro executives.&lt;/p&gt;
+
+&lt;p&gt;Useful Links&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;LCU14 &lt;a href="http://www.linaro.org/connect/lcu/lcu14/"&gt;http://www.linaro.org/connect/lcu/lcu14/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Remote links &lt;a href="http://www.linaro.org/connect/lcu/lcu14/remote/"&gt;http://www.linaro.org/connect/lcu/lcu14/remote/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="toc_1"&gt;Linaro Engineering Calendar&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Toolchain Release &lt;strong&gt;2nd Thursday of each Month&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Linaro Release &lt;strong&gt;Last Thursday of each Month&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;OPSCOM Cards &lt;strong&gt;Last Friday of each Month&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;LAVA Release &lt;strong&gt;1st Thursday of each Month&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="toc_2"&gt;Reports&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Monthly Engineering Report Drafts &lt;strong&gt;2nd to last Thursday each Month&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Heading to LCU14</title>
+      <link>http://www.akb.net/heading-to-lcu14</link>
+      <pubDate>2014-09-15</pubDate>
+      <description>&lt;p&gt;&lt;img src="/assets/media/lcu14.jpg" width=200&gt;&lt;/p&gt;
+
+&lt;h1 id="toc_0"&gt;It&amp;#39;s that time again&lt;/h1&gt;
+
+&lt;p&gt;Every few months, the team at Linaro comes together to hold formal and informal
+meetings.  These events are often on un-familiar ground, allowing the teams to
+hold discussions nearly around the clock.  The discussions are non-stop,
+starting early in the morning and carrying on throughout the day.  At the end
+of the day, teams may get together and continue earlier discussions or talk
+about other hobbies, and end up returning to our hotel rooms to draft up daily
+summaries late into the night only to start the whole thing over for 5-6 days
+in a row.  All in all, the event is exhausting.  &lt;/p&gt;
+
+&lt;p&gt;Find out more at: &lt;a href="http://www.linaro.org/connect/lcu/lcu14/remote/"&gt;http://www.linaro.org/connect/lcu/lcu14/remote/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The LAVA, Toolchain and LSK teams have a full schedule&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;LCU14-201: Binary Analysis Tools&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This session will be a presentation about currently available binary analysis
+tools, including: Sanitizers, perf (a performance counter and tracing profiling
+tool), record/replay (a reverse debugging facility in GDB) and prelink rootfs.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;OnAir: &lt;a href="https://plus.google.com/u/2/events/ca2pdo9sn9r8n81l5vrbiibvcts"&gt;https://plus.google.com/u/2/events/ca2pdo9sn9r8n81l5vrbiibvcts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Slides: &lt;a href="http://www.slideshare.net/linaroorg/lcu14-201-binary-analysis-tools"&gt;http://www.slideshare.net/linaroorg/lcu14-201-binary-analysis-tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Notes: &lt;a href="http://pad.linaro.org/p/lcu14-201"&gt;http://pad.linaro.org/p/lcu14-201&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;LCU14-203: LAVA Use Cases: Upstream Kernel CI&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This session will provide a short summary on how Linaro teams are automating
+upstream Kernel CI with a goal to improve the overall Linux on ARM ecosystem.
+The second half of the session will be general Q&amp;amp;A&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;OnAir: &lt;a href="https://plus.google.com/u/2/events/c7nnlfne37ig3omaegupn24jivs"&gt;https://plus.google.com/u/2/events/c7nnlfne37ig3omaegupn24jivs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Slides: &lt;a href="http://www.slideshare.net/linaroorg/lcu14-203-lava-use-cases-upstream-kernel-ci"&gt;http://www.slideshare.net/linaroorg/lcu14-203-lava-use-cases-upstream-kernel-ci&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Notes: &lt;a href="http://pad.linaro.org/p/lcu14-203"&gt;http://pad.linaro.org/p/lcu14-203&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;LCU14-205: Multi-arch compiler driver&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This session will provide an overview of the foundations of a multi-arch
+compiler driver and discuss necessary support in GCC, LLVM, multi-arch
+enablement (in both), and bug reporting. The eventual goal of a unified driver
+will be a compiler driver that has a common set of feature flags that can invoke
+the desired compiler, which will then generate consistent results between
+compilers.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;OnAir: &lt;a href="https://plus.google.com/u/2/events/cj5saisn21o8pk36l90glslmbpk"&gt;https://plus.google.com/u/2/events/cj5saisn21o8pk36l90glslmbpk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Slides: &lt;a href="http://www.slideshare.net/linaroorg/lcu14-205-multiarch-compiler-driver"&gt;http://www.slideshare.net/linaroorg/lcu14-205-multiarch-compiler-driver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Notes: &lt;a href="http://pad.linaro.org/p/lcu14-205"&gt;http://pad.linaro.org/p/lcu14-205&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;LCU14-207: LAVA status update and refactoring the lava-dispatcher&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The LAVA team will present the current status of the LAVA product and highlight
+the the in-progress dispatcher re-factoring.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;OnAir: &lt;a href="https://plus.google.com/u/2/events/cuogvhuies5pmct331bcp55696c"&gt;https://plus.google.com/u/2/events/cuogvhuies5pmct331bcp55696c&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Slides: &lt;a href="http://www.slideshare.net/linaroorg/lcu14-207-refactoring-the-lavadispatcher"&gt;http://www.slideshare.net/linaroorg/lcu14-207-refactoring-the-lavadispatcher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Notes: &lt;a href="http://pad.linaro.org/p/lcu14-207"&gt;http://pad.linaro.org/p/lcu14-207&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;LCU14-209: LLVM Linux&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This session will provide an update on the status of the LLVMLinux project; a
+project which is cooperating with both the Linux kernel and LLVM communities to
+build the Linux kernel with Clang/LLVM. This talk will also cover new things in
+LLVM which make clang even more attractive to the kernel community. LLVM is an
+extensive compiler technology suite which is already commonplace from
+Android/Renderscript and OpenCL through to high performance computing clusters.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;OnAir: &lt;a href="https://plus.google.com/u/2/events/cp34l6uc5rmu189qn8eq3ps3bkc"&gt;https://plus.google.com/u/2/events/cp34l6uc5rmu189qn8eq3ps3bkc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Slides: &lt;a href="http://www.slideshare.net/linaroorg/lcu14-209-llvm-linux-39165110"&gt;http://www.slideshare.net/linaroorg/lcu14-209-llvm-linux-39165110&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Notes: &lt;a href="http://pad.linaro.org/p/lcu14-209"&gt;http://pad.linaro.org/p/lcu14-209&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;LCU14-211: LAVA Use Cases: SW testing &amp;amp; Reproducing a LAVA failures locally using CARE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The session will cover: Means to collect the data from Jenkins and LAVA
+End-to-end result presentation (build status, build warnings, automated testing,
+manual testing) Reporting of weekly/monthly testing results The session is
+meant to show the currently implemented solution and collect feedback/requests
+from current and potential users.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;OnAir: &lt;a href="https://plus.google.com/u/2/events/c4u50tkmpj0aako5u400dsl6l94"&gt;https://plus.google.com/u/2/events/c4u50tkmpj0aako5u400dsl6l94&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Slides: &lt;a href="http://www.slideshare.net/linaroorg/lcu14-211-lava-use-cases-sw-testing-reproducing-a-lava-failures-locally-using-care"&gt;http://www.slideshare.net/linaroorg/lcu14-211-lava-use-cases-sw-testing-reproducing-a-lava-failures-locally-using-care&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Notes: &lt;a href="http://pad.linaro.org/p/lcu14-211"&gt;http://pad.linaro.org/p/lcu14-211&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;LCU14-303: Toolchain Collaboration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This session will be working through the planned open source contributions from
+Linaro, ARM, and other members who want to share their open source contribution
+plans for the next year. Projects to be included are: gcc, llvm, glibc, gold,
+gdb, binutils.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;OnAir: &lt;a href="https://plus.google.com/u/2/events/c3knobs1t2fd2vi9f9mhejehts0"&gt;https://plus.google.com/u/2/events/c3knobs1t2fd2vi9f9mhejehts0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Slides: &lt;a href="http://www.slideshare.net/linaroorg/lcu14-303-toolchain-collaboration"&gt;http://www.slideshare.net/linaroorg/lcu14-303-toolchain-collaboration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Notes: &lt;a href="http://pad.linaro.org/p/lcu14-303"&gt;http://pad.linaro.org/p/lcu14-303&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;LCU14-307: Advanced Toolchain Usage (Part 1&amp;amp;2)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This set of sessions will go into detail on many toolchain topics and help the
+attendee get the most out of their toolchain usage. Topics covered will include:
+inline assembly Link Time Optimizations (LTO) Feedback Directed Optimizations
+(FDO) Proper code annotation for: promoting vectorization avoiding false
+sharing memory aliasing restrict keyword usage Optimization levels and what they
+mean Demystifying -march, -mfpu, -mcpu, -mtune, -with-mode Linking options
+Libatomic usage Debugging binaries compiled with optimizations.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;OnAir1: &lt;a href="https://plus.google.com/u/2/events/csb19bbpqh43888ghud0si92p40"&gt;https://plus.google.com/u/2/events/csb19bbpqh43888ghud0si92p40&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;OnAir2: &lt;a href="https://plus.google.com/u/2/events/croj226kas0gjarm1mqbm42db9o"&gt;https://plus.google.com/u/2/events/croj226kas0gjarm1mqbm42db9o&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Slides: &lt;a href="http://www.slideshare.net/linaroorg/lcu14-307-advanced-toolchain-usage-parts-12"&gt;http://www.slideshare.net/linaroorg/lcu14-307-advanced-toolchain-usage-parts-12&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Notes: &lt;a href="http://pad.linaro.org/p/lcu14-307"&gt;http://pad.linaro.org/p/lcu14-307&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Notes: &lt;a href="http://pad.linaro.org/p/lcu14-311"&gt;http://pad.linaro.org/p/lcu14-311&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;LCU14-400: Managing a LAVA LAB using new Debian packages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This session will provide a summary of the process to install, update and manage
+LAVA within a LAVA LAB. We will also discuss how the LAVA LAB in Cambridge is
+managed and any thoughts or problems we know were experienced when the LAB
+upgraded from Ubuntu 12.04 to Debian Jessie.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;OnAir: &lt;a href="https://plus.google.com/u/2/events/cf405nl1mi12l118haa1pf10k1s"&gt;https://plus.google.com/u/2/events/cf405nl1mi12l118haa1pf10k1s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Slides: &lt;a href="http://www.slideshare.net/linaroorg/lcu14-400-managing-a-lava-lab-using-new-debian-packages"&gt;http://www.slideshare.net/linaroorg/lcu14-400-managing-a-lava-lab-using-new-debian-packages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Notes: &lt;a href="http://pad.linaro.org/p/lcu14-400"&gt;http://pad.linaro.org/p/lcu14-400&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;LCU14-511: LSK overview and status update&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This session will provide a summary of the current status of LSK, an
+introduction for those not familiar with it and provide a forum for discussion
+of the status and direction with members.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;OnAir: &lt;a href="https://plus.google.com/u/2/events/cam2mbcm3nqe62seuv4fv7i891s"&gt;https://plus.google.com/u/2/events/cam2mbcm3nqe62seuv4fv7i891s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Slides: &lt;a href="http://www.slideshare.net/linaroorg/lcu14-511-lsk-update-and-overview"&gt;http://www.slideshare.net/linaroorg/lcu14-511-lsk-update-and-overview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Notes: &lt;a href="http://pad.linaro.org/p/lcu14-511"&gt;http://pad.linaro.org/p/lcu14-511&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
   </channel>
 </rss>
