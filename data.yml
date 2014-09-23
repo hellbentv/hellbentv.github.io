@@ -1,11 +1,11 @@
-title : Blog Title
-tagline: Blog Tagline
+title : akb.net
+tagline: home of akb
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Alan Bennett
+  email : alan@akb.net
+  github : hellbentv
+  twitter : hellbentv
+  feedburner : hellbentv
 
 navigation :
   - archive
