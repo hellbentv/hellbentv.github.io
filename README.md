@@ -4,6 +4,35 @@ A default blog scaffold for **ruhoh** compatible static blog parsers.
 
 ## Usage
 
+### Quick ref guide
+
+Get static blog (master) and code (gh-pages)
+
+    $ git clone ssh://git@github.com/hellbentv/hellbentv.github.io blog
+    $ cd blog
+
+Modify your content
+
+    $ git checkout gh-pages
+    $ bundle exec ruhoh posts new "Another Post"
+
+Run a local server to confirm the content
+
+    $ bundle exec rackup -p 9292
+
+    # compile the static page and push changes
+    $ bundle exec ruhoh compile
+    $ git add .
+    $ git commit -m 'message'
+    $ git push origin gh-pages
+
+    # Copy the compiled files to master and push changes
+    $ git checkout master
+    $ rsync -a compiled/ ./
+    $ git add .
+    $ git commit -m 'messages'
+    $ git push origin master
+
 ### ruby 1.9.2+
 
 #### Clone the Blog Scaffold
